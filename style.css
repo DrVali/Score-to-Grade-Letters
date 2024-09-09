@@ -1,0 +1,35 @@
+﻿
+html{
+  font-size: 62.5%;
+}
+
+body{
+	font-size: 3rem;
+    padding: 10px;
+    overflow-x: hidden;
+}
+
+
+.score_to_store{
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    text-align: center;
+    width: 96%;
+    }
+
+   .num{
+      border:2px solid #000;
+   }
+    .score_class {
+      padding: 10px;
+    margin: 0 10px;
+   }
+
+   .btn{
+     padding: 10px;
+    background: cadetblue;
+    border-radius: 5px;
+    margin: 30px 10px;
+    width: 40%;
+   }
